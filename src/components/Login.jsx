@@ -5,11 +5,11 @@ function Login() {
   return (
     <div className="Login">
       <div className='email'>
-        <label htmlFor="">Email </label>
+        <label >Email </label>
         <KotakTeks />
       </div>
       <div className='password'>
-        <label htmlFor="">Password </label>
+        <label>Password </label>
         <KotakTeks />
       </div>
       <Tombol></Tombol>

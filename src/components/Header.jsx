@@ -1,7 +1,7 @@
 const nama = "Dimas Firmansyah"
 
 function Header () {
-    return <h1>{nama}</h1>
+    return <header>{nama}</header>
 }
 
 export default Header;
